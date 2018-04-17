@@ -1,0 +1,111 @@
+*
+{margin: 0; padding: 0;}
+
+/* overall color and settings of page*/
+
+body {
+	background-image: url {"image/deep sea.jpg"};
+	text-align: center;
+	overflow-x: hidden:
+	overflow-y: hidden;
+}
+/* turtle page 1*/
+.turtle {
+	position: absolute; top: 25%; left: 35%;
+}
+.turtle2 {
+	position: absolute; top: 45%; left: 15%;
+}
+.plasticbag {
+	position: absolute; top: 25%; left: 40%;
+}
+.caught jellyfish {
+	position: absolute; top: 30%; left: 45%;
+}
+/*sentences in the pages*/
+.text {
+	position: relative;
+	margin-top: -10%;
+}
+.text h1{
+	text-align: center;
+	color: #000000;
+	font-size: 3vw;
+}
+.text2{
+	position: relative;
+	margin-top: 1%;
+}
+.text2 h2{
+	text-align: center;
+	color: #000000;
+	font-size: 1.5vw;
+}
+.text3 {
+	position: relative;
+	margin-top: -15%;
+}
+.text3 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 1.5vw;
+}
+.text4 {
+	position: relative;
+	margin-top: -20%;
+}
+.text4 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 1.5vw;
+}
+.info {
+	position: relative;
+	margin-top: -45%;
+}
+.info p {
+	text-align: center;
+	color: #000000;
+	font-size: 2vw;
+}
+.icon {
+	position: absolute; top: 93%; left: 95%;
+}
+/* jellyfish placement on page*/
+
+.jellyfish {
+	position: absolute; top: 15%; left: 33%;
+	}
+.jellyfish2 {
+	position: absolute; top: 30%; left: 4%;
+	}
+.jellyfish3 {
+	position: absolute; top: 63%; left: 70%;
+	}
+.jellyfish4 {
+	position: absolute; top: 0%; left: 53%;
+}
+.jellyfish5 {
+	position: absolute; top: 60%; left: 18%;
+}
+.jellyfish6 {
+	position: absolute; top: 0%; left: 71%;
+}
+.jellyfish7 {
+	position: absolute; top: 23%; left: 79%;
+}
+.jellyfish8 {
+	position: absolute; top: 20%; left: 75
+		%;
+}
+.jellyfish8 {
+	position: absolute; top: 59%; left: 48%;
+}
+.jellyfish9 {
+	position: absolute; top: 30%; left: 57%;
+}
+/* end */
+
+
+                
+           
