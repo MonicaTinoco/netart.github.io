@@ -69,40 +69,42 @@ body {
 	font-size: 2vw;
 }
 .icon {
-	position: absolute; top: 93%; left: 95%;
+	position: absolute; top: 92%; left: 94%;
 }
 /* jellyfish placement on page*/
 
 .jellyfish {
-	position: absolute; top: 15%; left: 33%;
+	position: absolute; top: 15%; left: 38%;
 	}
 .jellyfish2 {
-	position: absolute; top: 30%; left: 4%;
+	position: absolute; top: 30%; left: 7%;
 	}
 .jellyfish3 {
-	position: absolute; top: 63%; left: 70%;
+	position: absolute; top: 60%; left: 74%;
 	}
 .jellyfish4 {
-	position: absolute; top: 0%; left: 53%;
+	position: absolute; top: 0%; left: 58%;
 }
 .jellyfish5 {
-	position: absolute; top: 60%; left: 18%;
+	position: absolute; top: 50%; left: 23%;
 }
 .jellyfish6 {
-	position: absolute; top: 0%; left: 71%;
+	position: absolute; top: 0%; left: 75%;
 }
 .jellyfish7 {
-	position: absolute; top: 23%; left: 79%;
+	position: absolute; top: 23%; left: 83%;
 }
 .jellyfish8 {
-	position: absolute; top: 20%; left: 75
-		%;
+	position: absolute; top: 20%; left: 80%;
 }
 .jellyfish8 {
-	position: absolute; top: 59%; left: 48%;
+	position: absolute; top: 60%; left: 52%;
 }
 .jellyfish9 {
-	position: absolute; top: 30%; left: 57%;
+	position: absolute; top: 30%; left: 60%;
+}
+.jellyfish10 {
+	position: absolute; top: 11%; left: 40%;
 }
 /* end */
 
