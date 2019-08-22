@@ -1,20 +1,143 @@
 *
 {margin: 0; padding: 0;}
 
-/* overall color and settings of page*/
-
+/* overall color and settings of page for phone*/
+@media only screen and (min-width: 667px) and (orientation: landscape) {
+    
+@media only screen and (min-width: 667px) {
+    display: block;
+    width: 100%;
+    
 body {
 	background-image: url {"image/deep sea.jpg"};
-	text-align: center;
-	overflow-x: hidden:
-	overflow-y: hidden;
+    width: 100%;
+    height: 100vh;
+    /*text-align: center;*/
 }
 /* turtle page 1*/
 .turtle {
-	position: absolute; top: 25%; left: 35%;
+	position: absolute; top: 45%; left: 75%;
 }
 .turtle2 {
-	position: absolute; top: 45%; left: 15%;
+	position: absolute; top: 105%; left: 35%;
+}
+.plasticbag {
+	position: absolute; top: 35%; left: 60%;
+}
+.caught jellyfish {
+	position: absolute; top: 30%; left: 45%;
+}
+/*sentences in the pages*/
+.text {
+	position: center;
+	margin: -30% -50% 1% 85%; 
+}
+.text h1{
+	text-align: relative;
+	color: #000000;
+	font-size: 6vw;
+}
+.text2{
+	text-align: center;
+	margin: 0% -55% 0% 75%;
+}
+.text2 h2{
+	color: #000000;
+	font-size: 3vw;
+}
+.text3 {
+	position: relative;
+	margin: -30% -20% 0% 100%;
+}
+.text3 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 4vw;
+}
+.text4 {
+	position: center;
+	margin: -30% -35% 1% 86%;
+}
+.text4 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 4vw;
+}
+.info {
+    display: block;
+	margin: -97% -95% 0% 35%;
+}
+.info p {
+	text-align: center;
+	color: #000000;
+	font-size: 30px;
+}
+.info2 {
+    display: block;
+	text-align: center;
+	margin: 0% -15% 0% 105%;
+    }
+.icon {
+	position: absolute; top: 190%; left: 210%;
+}
+/* jellyfish placement on page*/
+
+.jellyfish {
+	position: absolute; top: 35%; left: 84%;
+	}
+.jellyfish2 {
+	position: absolute; top: 60%; left: 18%;
+	}
+.jellyfish3 {
+	position: absolute; top: 130%; left: 163%;
+	}
+.jellyfish4 {
+	position: absolute; top: 0%; left: 127%;
+}
+.jellyfish5 {
+	position: absolute; top: 110%; left: 50%;
+}
+.jellyfish6 {
+	position: absolute; top: 0%; left: 167%;
+}
+.jellyfish7 {
+	position: absolute; top: 50%; left: 180%;
+}
+.jellyfish8 {
+	position: absolute; top: 20%; left: 80%;
+}
+.jellyfish8 {
+	position: absolute; top: 127%; left: 115%;
+}
+.jellyfish9 {
+	position: absolute; top: 65%; left: 130%;
+}
+.jellyfish10 {
+	position: absolute; top: 45%; left: 75%;
+}
+    }
+}
+/* end */
+
+/* overall color and settings of page for tablet*/
+ @media only screen and (min-width: 768px) and (orientation: landscape) {   
+
+@media only screen and (min-width: 768px) {
+    display: block;
+    width: 100%;
+
+body {
+	background-image: url {"image/deep sea.jpg"};
+    width: 100%;
+    height: 100vh;
+    /*text-align: center;*/
+}
+/* turtle page 1*/
+.turtle {
+	position: absolute; top: 25%; left: 55%;
+}
+.turtle2 {
+	position: absolute; top: 55%; left: 20%;
 }
 .plasticbag {
 	position: absolute; top: 25%; left: 40%;
@@ -25,7 +148,7 @@ body {
 /*sentences in the pages*/
 .text {
 	position: relative;
-	margin-top: -10%;
+	margin: -15% 0% 1% 50%;   
 }
 .text h1{
 	text-align: center;
@@ -33,8 +156,126 @@ body {
 	font-size: 3vw;
 }
 .text2{
+	text-align: center;
+	margin: 0% 0% 0% 50%;
+}
+.text2 h2{
+	color: #000000;
+	font-size: 1.5vw;
+}
+.text3 {
 	position: relative;
-	margin-top: 1%;
+	margin: -15% 10% 0% 50%;
+}
+.text3 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 3vw;
+}
+.text4 {
+	position: center;
+	margin: -20% 15% 1% 56%;
+}
+.text4 h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 3vw;
+}
+.info {
+    display: block;
+	margin: -67% -35% 0% 15%;
+}
+.info p {
+	text-align: center;
+	color: #000000;
+	font-size: 34px;
+}
+.info2 {
+    display: block;
+	text-align: center;
+	margin: 10 0 0 418;
+    }
+.icon {
+	position: absolute; top: 90%; left: 135%;
+}
+/* jellyfish placement on page*/
+
+.jellyfish {
+	position: absolute; top: 15%; left: 55%;
+	}
+.jellyfish2 {
+	position: absolute; top: 30%; left: 11%;
+	}
+.jellyfish3 {
+	position: absolute; top: 60%; left: 105%;
+	}
+.jellyfish4 {
+	position: absolute; top: 0%; left: 82%;
+}
+.jellyfish5 {
+	position: absolute; top: 50%; left: 33%;
+}
+.jellyfish6 {
+	position: absolute; top: 0%; left: 108%;
+}
+.jellyfish7 {
+	position: absolute; top: 23%; left: 117%;
+}
+.jellyfish8 {
+	position: absolute; top: 20%; left: 80%;
+}
+.jellyfish8 {
+	position: absolute; top: 60%; left: 75%;
+}
+.jellyfish9 {
+	position: absolute; top: 30%; left: 85%;
+}
+.jellyfish10 {
+	position: absolute; top: 20%; left: 45%;
+}
+    }
+}
+/* end */
+
+/* overall color and settings of page for computer screen*/
+@media only screen and (min-width: 1025px) and (orientation: landscape) {
+
+@media only screen and (min-width: 1025px) {
+    
+body {
+	background-image: url {"image/deep sea.jpg"};
+	display: block;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+/* turtle page 1*/
+.turtle {
+	position: absolute; top: 15%; left: 35%;
+}
+.turtle2 {
+	position: absolute; top: 45%; left: 15%;
+}
+.plasticbag {
+	position: absolute; top: 15%; left: 30%;
+}
+.caught jellyfish {
+	position: absolute; top: 30%; left: 45%;
+}
+/*sentences in the pages*/
+.text {
+	position: relative;
+	margin: -12% 0% 0% 0%;   
+}
+.text h1{
+	text-align: center;
+	color: #000000;
+	font-size: 3vw;
+}
+.text2{
+    display: block;
+	position: center;
+	margin: 1% 0% 0% 0%;
 }
 .text2 h2{
 	text-align: center;
@@ -43,7 +284,7 @@ body {
 }
 .text3 {
 	position: relative;
-	margin-top: -15%;
+	margin: -10% 10% 0% 6%;
 }
 .text3 h2 {
 	text-align: center;
@@ -51,25 +292,31 @@ body {
 	font-size: 1.5vw;
 }
 .text4 {
-	position: relative;
-	margin-top: -20%;
+	position: center;
+	margin: -20% 0% 1;
 }
 .text4 h2 {
 	text-align: center;
 	color: #000000;
 	font-size: 1.5vw;
 }
+.info2 {
+    display: block;
+	text-align: center;
+	margin: 10 0 0 3;
+    }
 .info {
-	position: relative;
-	margin-top: -45%;
+    display: block;
+	text-align: center;
+	margin: -45% 0;
 }
 .info p {
 	text-align: center;
 	color: #000000;
-	font-size: 2vw;
+	font-size: 30px;
 }
 .icon {
-	position: absolute; top: 92%; left: 94%;
+	position: absolute; top: 90%; left: 94%;
 }
 /* jellyfish placement on page*/
 
@@ -106,8 +353,6 @@ body {
 .jellyfish10 {
 	position: absolute; top: 11%; left: 40%;
 }
+    }
+}
 /* end */
-
-
-                
-           
